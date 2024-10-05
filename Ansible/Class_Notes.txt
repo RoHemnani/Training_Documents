@@ -7,7 +7,7 @@ Day 41: 30th Sep. 2024
 	Terrafrom :
 	
 	IAC - Infra-Structure As Code 
-	
+
 	Infra-Structure 
 	
 		Infra-Structure Provisioning 	- Process of creating servers 		- Terraform 
@@ -20,8 +20,8 @@ Day 41: 30th Sep. 2024
 	
 	Configure 20 Test Servers :
 	
-	20 Developers Joined the Team :
-	
+	20 Developers Joined the Team 
+
 		- Provision/Create the dev environment 
 		
 		- Install the required development tools 
