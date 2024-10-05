@@ -7,7 +7,6 @@ Day 41: 30th Sep. 2024
 	
 	Terrafrom :
 	
-	
 	IAC - Infra-Structure As Code 
 	
 	Infra-Structure 
