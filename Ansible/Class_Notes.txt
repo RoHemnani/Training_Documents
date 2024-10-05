@@ -5,7 +5,6 @@ Day 41: 30th Sep. 2024
 	Configuration Management System using Ansible ::::
 	
 	Terrafrom :
-	
 	IAC - Infra-Structure As Code 
 
 	Infra-Structure 
